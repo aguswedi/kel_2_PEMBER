@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.project_pember.app-mergeDebugResources-53:/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ACER\\.gradle\\caches\\8.10.2\\transforms\\dda11b2d6c20c6b85d14bae3889514ce\\transformed\\appcompat-1.5.0\\res\\values-h720dp-v13\\values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
